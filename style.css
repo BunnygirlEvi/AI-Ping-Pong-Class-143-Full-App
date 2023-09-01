@@ -1,0 +1,30 @@
+#status {
+  background-color: white;
+  width: 5%;
+  height: 10%;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+#heading {
+  width: 100%;
+  font-size: 30px;
+}
+
+h4 {
+  background-color: rgb(180, 171, 171);
+  line-height: 2;
+  margin: 0px;
+}
+
+.modal-dialog {
+  width: 90%;
+}
+
+h6 {
+  font-size: 25px;
+}
+
+canvas {
+  box-shadow: gray 5px 5px 5px;
+}
